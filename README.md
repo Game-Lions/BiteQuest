@@ -13,4 +13,5 @@
           
 במטלה השבועית של שבוע 4, התמקדנו בתהליך הליבה בו הכלב אוסף רמזים בתוך המבנה הממולכד. ניתן לזוז ולאסוף את הרמזים.  
 קישור למשחק ב-itch:
-https://adi-yohanan.itch.io/bitequest
+
+https://adi-yohanan.itch.io/bitequestfinall
